@@ -1,2 +1,1 @@
-# ApacheZeppelin
-Apache Zeppelin Notebook
+## Apache Zeppelin Notebook
