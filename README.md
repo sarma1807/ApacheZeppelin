@@ -1,5 +1,7 @@
 ## Apache Zeppelin
 
-Apache Zeppelin Notebook provides built-in Apache Spark integration along with built-in Data Visualization.
+Apache Zeppelin Web-based notebook provides built-in Apache Spark integration along with built-in Data Visualization.
 
-#### https://zeppelin.incubator.apache.org/
+Out-of-box, Apache Zeppelin supports 20+ different interpreters including support for Apache Cassandra, Apache Spark, Scala and Python.
+
+#### http://zeppelin.apache.org/
