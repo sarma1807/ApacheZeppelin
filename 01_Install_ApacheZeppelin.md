@@ -15,8 +15,8 @@ Binary package ` zeppelin-0.9.0-bin-all.tgz ` of size ` 1.5g ` was available for
 
 ##### during this install :
 
-we will use ` CentOS Linux ` server
-Zeppelin will run under ` cassandra ` user
+we will use ` CentOS Linux ` server <br>
+Zeppelin will run under ` cassandra ` user <br>
 ` ~ = /apps/opt/cassandra `
 
 ---
@@ -87,5 +87,3 @@ chmod ug+x ~/zeppelin-current/conf/zeppelin-env.sh
 ```
 http://<ZEPPELIN_SERVER_IP>:9990/next
 ```
-
----
