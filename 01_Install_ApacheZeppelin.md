@@ -1,6 +1,9 @@
 ## Install & Configure Apache Zeppelin
 
-#### go to ` http://zeppelin.apache.org/download.html `
+#### go to 
+
+http://zeppelin.apache.org/download.html
+
 #### download ` zeppelin-<VERSION>-bin-all.tgz `
 
 ---
